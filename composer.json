@@ -1,0 +1,10 @@
+{
+    "name": "sorokin_convert/convertor",
+    "description": "Library for translating color names into HTML code",
+    "type": "library",
+    "autoload":{
+        "psr-4":{
+            "convertor\\":"src/"
+        }
+    }
+}
